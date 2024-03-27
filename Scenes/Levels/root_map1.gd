@@ -2,7 +2,7 @@ extends Node
 
 var num_hills = 2
 var slice = 10
-var hill_range = 100\
+var hill_range = 100
 
 var screensize = get_viewport().get_visible_rect().size
 var terrain = Array()
